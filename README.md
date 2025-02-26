@@ -1,6 +1,6 @@
 # Projeto API da Champions League
 
-Esta é uma API construída com Node.js e Express, que fornece informações sobre da Champions League, incluindo dados sobre jogadores e clubes.
+Esta é uma API construída com Node.js e Express, que fornece informações da Champions League, incluindo dados sobre jogadores e clubes.
 
 ## Tecnologias utilizadas
 - Node.js
